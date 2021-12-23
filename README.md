@@ -2,7 +2,7 @@
 
 ![Made with love in India](https://madewithlove.now.sh/in?heart=true)
 
-> Simple Web Page For Introduction.
+> Simple Web Page For Christmas.
 
 Provides a quick and easy way to create a website to showcase your name, country of origin and projects!
 
